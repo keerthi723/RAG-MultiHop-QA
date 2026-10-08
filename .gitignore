@@ -2,3 +2,9 @@ venv/
 __pycache__/
 *.pyc
 .env
+datasets/
+venv/
+models/
+embeddings/
+vectorstore/
+results/
